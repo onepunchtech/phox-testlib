@@ -1,0 +1,5 @@
+let
+  x : String
+  x = "foobar"
+in
+  x
